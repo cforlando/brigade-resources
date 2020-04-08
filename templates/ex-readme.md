@@ -1,24 +1,28 @@
 # Project Title
 
-Provide a project description in the style of an elevator pitch.  
+Provide a project description in the style of an elevator pitch.
+
+Ex: This (project type) helps (target audience) do (solve a problem) so they can (expected outcome).
+
 Version number if applicable and any build status/test badges.
 
 If this is a sub-project, link back to the parent.  
 Link back to the project's own repository.  
 Link to any sibling projects like iOS/Android apps in different repos.  
+
 Ex: Brigade Resources - [GitHub - Code for Orlando](https://github.com/cforlando/brigade-resources)
 
-Project Lead: CfO Slack name and contact email
+Project Lead: CFO Slack name and contact email
 
 ---
 
 ## About
 
 Give a more in-depth description of the project. This can include:
-* **Purpose** - how will it benefit the community
-* **Target Audience/Users** - who will use and/or benefit from it
-* **Technologies Used** - languages, frameworks, infrastructure, target version numbers
-* **Screenshots** - images are very effective but keep them up to date
+* **Purpose** - How will it benefit the community?
+* **Target Audience/Users** - Who will use and/or benefit from it?
+* **Technologies Used** - Languages, frameworks, infrastructure, target version numbers
+* **Screenshots/Images/Demo Videos** - Visuals are very effective but keep them up to date
 
 ## Project-specific
 
@@ -36,13 +40,17 @@ A simple version history or roadmap useful but not necessary. Limit any future p
 
 ## Contributing
 
-Give a short description on how people can contribute to the project. This can include ways to file bug reports and create/respond to GitHub issues.
+Give a short description on how people can contribute to the project. Are there any particular guidelines they should adhere to? This can include ways to file bug reports and create/respond to GitHub issues.
 
 ## License
 
 **ALL PROJECTS MUST INCLUDE AN OPEN-SOURCE LICENSE!!!**  
 Provide the type of open-source license and a link to the repo's [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
 
-## About Code for Orlando
+## People involved in the project
 
-Code for Orlando, a local Code for America brigade, brings the community together to improve Orlando through technology. We are a group of “civic hackers” from various disciplines who are committed to volunteering our talents to make a difference in the local community through technology. We unite to improve the way the community, visitors, and local government experience Orlando.
+Provide information on the team members(s) creating and maintaining the project, as well as stakeholders. Feel free to add relevant profile links and contact details (if applicable).
+
+## Further Reading
+
+Link as needed to any additional, useful documentation about the project like articles, blog posts, FAQ or white papers.
