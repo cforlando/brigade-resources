@@ -19,12 +19,13 @@ Some projects (ex. Street Art Orlando) do not have an actual, physical "partner"
 * **What is the project schedule** - Based on the resources available to the organization (ex. time, skillsets, bandwidth, project complexity, etc.) Again, higher level than requirement gathering
 * **Should we take the project** - Does it align with our goals? Will it benefit the community and the organization? Are we comfortable that we can deliver?
 * **Others**
+
 ## Requirements Gathering
 * **What is the project schedule** - Based on the resources available to the organization (ex. time, skillsets, bandwidth, project complexity, etc.)
 * **What resources are we committing to the project** - Who, what, when
 *  **Communication Plan** - Do we need to communicate milestones? project progress? developer questions? Who is communicating? With whom?
 *  **Project Progress Visibility** - How do we communicate project status? task status? Kanban? Gantt? do we care?
-* *  **Testing/acceptance criteria/script** - we need our partner involved
+*  **Testing/acceptance criteria/script** - we need our partner involved
 
 ## Design
 *  **Who is involved?** - lead developer? governance? partner?
@@ -49,4 +50,5 @@ Some projects (ex. Street Art Orlando) do not have an actual, physical "partner"
 ## Maintenance/Post-Implementation Support
 * **What did we promise the partner?** - Did we commit to any type of support? did we refer them to a source of support?
 * **Were the goals met?**
-* **Do we have suggestions for future projects?** 
+* **Do we have suggestions for future projects?**
+* **Update our stakeholders** - Successful project? Let's tell people about it! CFA, members, partners, etc.
