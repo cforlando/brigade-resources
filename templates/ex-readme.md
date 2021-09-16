@@ -1,3 +1,26 @@
+**Instructions**
+
+The purpose of this README.md template is to help you create a README for a project. A README is a document that introduces and explains what a project is about. It contains details on getting started with the project. Use the following information as a guide when setting up a README. Customize based on the needs of the project.
+
+**When should I use this?**
+You can use this template at any point in your project's life. 
+
+**Brigade README Examples**
+* [Jessica Sand's README Template](https://gist.github.com/theecrit/d69671774c7881505e0ffa9643358eb7)
+* [TDM Calculator README](https://github.com/hackforla/tdm-calculator)
+* [Street Art Orlando README](https://github.com/cforlando/street-art-orlando-ios)
+
+**Contents**
+1. [Project Title](#project-title)
+2. [About](#about)
+3. [Project-specific](#project-specific)
+4. [Contributing](#contributing)
+5. [People involved in the project](#people-involved-in-the-project)
+6. [License](#license)
+7. [Code of Conduct](#code-of-conduct)
+8. [Further Reading](#further-reading)
+
+
 # Project Title
 
 Provide a project description in the style of an elevator pitch.
@@ -10,7 +33,7 @@ If this is a sub-project, link back to the parent.
 Link back to the project's own repository.  
 Link to any sibling projects like iOS/Android apps in different repos.  
 
-Ex: Brigade Resources - [GitHub - Code for Orlando](https://github.com/cforlando/brigade-resources)
+Example: Brigade Resources - [GitHub - Code for Orlando](https://github.com/cforlando/brigade-resources)
 
 Project Lead: CFO Slack name and contact email
 
@@ -42,14 +65,17 @@ A simple version history or roadmap useful but not necessary. Limit any future p
 
 Give a short description on how people can contribute to the project. Are there any particular guidelines they should adhere to? This can include ways to file bug reports and create/respond to GitHub issues.
 
+## People involved in the project
+
+Provide information on the team members(s) creating and maintaining the project, as well as stakeholders. Feel free to add relevant profile links and contact details (if applicable).
+
 ## License
 
 **ALL PROJECTS MUST INCLUDE AN OPEN-SOURCE LICENSE!!!**  
 Provide the type of open-source license and a link to the repo's [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
 
-## People involved in the project
-
-Provide information on the team members(s) creating and maintaining the project, as well as stakeholders. Feel free to add relevant profile links and contact details (if applicable).
+## Code of Conduct
+[Code for Orlando Code of Conduct](https://github.com/cforlando/codeofconduct)
 
 ## Further Reading
 
